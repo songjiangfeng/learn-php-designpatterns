@@ -1,0 +1,19 @@
+{
+    "name": "songjiangfeng/learn-php-designpatterns",
+    "description": "learn php designpatterns",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPDesignpatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phpman",
+            "email": "phpman.song@gmail.com"
+        }
+    ]
+}
